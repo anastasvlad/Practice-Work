@@ -21,8 +21,5 @@
 - **total_income** — ежемесячный доход
 - **purpose** — цель получения кредита
 
-
-
 ## Используемые библиотеки и инструменты
- - pandas, matplotlib, seaborn, plotly, numpy, scipy, math, statsmodels, os; событийная аналитика, проверка гипотез, z-тест
-
+ - pandas
